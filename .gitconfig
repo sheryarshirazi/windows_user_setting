@@ -1,0 +1,15 @@
+[user]
+	name = Sheryar Shirazi
+	email = sheryarshirazi@gmail.com
+[core]
+	editor = 'c:/program files/sublime text 3/subl.exe' -w
+	excludesfile = c:/Users/sheryar shirazi/.gitignore_global
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+	df = diff
+	dfs = diff --staged
+	dfc = diff --cached
+	logg = log --graph --decorate --oneline --abbrev-commit --all
